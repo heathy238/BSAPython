@@ -10,6 +10,7 @@ if yoMama == "fat":
         print ("syntax error")
     else :
         print ("ok")
-        
+elif yoMama == "heathy238":
+    print ("sup boss")
 
     
